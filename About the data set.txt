@@ -1,0 +1,4 @@
+In this model, a prediction model is established with the drawing samples in the publicly shared NewHandPD dataset.
+The image files that consist of drawing samples were aimed to be classified as “healthy” or “patient”.
+Hyperparameter Tuning model consists of %60 Train-%20 Validation-%20 Test.
+Prediction Model consists of %80 Train- %20 Test because off the small size of dataset.
